@@ -6,7 +6,6 @@ body{
 .container{
   border: 1px solid red;
 }
-<<<<<<< HEAD
 .contenido{
   display: flex;
   flex-wrap: wrap;
@@ -16,8 +15,8 @@ body{
 .contenido p{
   border: 2px solid blue;
   width: 40%;
-=======
-.texto-cabecera{
+}
+.texto-cabecera {
   border: 2px solid pink;
   border-radius: 1px;
   background-color: grey;
@@ -25,5 +24,4 @@ body{
 .cabecera p{
   text-transform: uppercase;
   font-size: 20px;
->>>>>>> cabecera
 }
