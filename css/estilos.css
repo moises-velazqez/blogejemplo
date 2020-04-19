@@ -6,3 +6,13 @@ body{
 .container{
   border: 1px solid red;
 }
+.contenido{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+.contenido p{
+  border: 2px solid blue;
+  width: 40%;
+}
